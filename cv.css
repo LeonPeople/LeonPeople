@@ -1,0 +1,41 @@
+h1{
+    background-color: #00CED1; 
+    color: #F8F8FF;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 5px;
+    border: 6px solid #00BDC0;
+    width: 578px;
+ }
+ 
+ h2{
+     border-bottom: 6px solid #00CED1;
+     width: 600px;
+ }
+ 
+ h3,h4,h5,h6{
+     border-bottom: 2px solid #00CED1;
+     width: 600px;
+ }
+ 
+ p{
+     padding-left: 30px;
+     padding-right: 70px;
+     width: 500px;
+ }
+ .del1{
+     clear: left; 
+     float: left;
+     width: 300px;
+ }
+ .del2{
+float: left;
+ }
+
+ .del3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+  
